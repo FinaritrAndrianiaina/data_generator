@@ -1,0 +1,14 @@
+{
+  "name": "data_generator",
+  "version": "1.0.0",
+  "description": "Data generator",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "keywords": [
+    "fake",
+    "data"
+  ],
+  "author": "finaritrandrianiaina@gmail.com",
+  "license": "ISC"
+}
